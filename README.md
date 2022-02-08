@@ -11,7 +11,7 @@ I) Create Data
   B) Import data from previous project  CHECK
   C) Add images to assets CHECK
 II) Create Home Page
-  A) Home page (index.html)
+  A) Home page (index.html) CHECK
   B) App.js
     1) Append rendered items to DOM
   C) Utils.js
