@@ -7,8 +7,8 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 ## Making a plan
 
 I) Create Data
-  A) Data.js
-  B) Import data from previous project
+  A) Data.js  CHECK
+  B) Import data from previous project  CHECK
 II) Create Home Page
   A) Home page (index.html)
   B) App.js
