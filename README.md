@@ -9,6 +9,7 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 I) Create Data
   A) Data.js  CHECK
   B) Import data from previous project  CHECK
+  C) Add images to assets CHECK
 II) Create Home Page
   A) Home page (index.html)
   B) App.js
