@@ -1,3 +1,23 @@
+body {
+    background-color: hsl(0, 0%, 20%);
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+.movie-container {
+    height: 460px;
+    width: 330px;
+    background-color: hsla(100, 0%, 100%, .8);
+    border-radius: 50px;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 img {
-    height: 500px;
+    height: 400px;
 }
