@@ -1,12 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;700&display=swap');
+
 body {
     background-color: hsl(0, 0%, 20%);
+    color: white;
+    font-family: "Zilla Slab";
 }
 
 main {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin: 30px;
+}
+
+h1 {
+    font-size: 6rem;
+    font-weight: bold;
+    margin-bottom: 0px;
     margin-top: 20px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+#movie-info-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.movie-image {
+    height: 500px;
+    margin: 30px 0px;
 }
 
 .movie-container {
@@ -18,7 +45,36 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10px 15px;
+    margin: 10px;
+}
+
+.image-quote-cast {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.image-quote-cast-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cast {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    justify-content: center;
+}
+
+#quote {
+    display: flex;
+    flex-direction: column;
+}
+
+#quote p {
+    padding: 0px 60px;
 }
 
 img {
