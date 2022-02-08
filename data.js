@@ -1,4 +1,4 @@
-const coenMovies = [
+export const coenMovies = [
     {
         id: 1,
         name: 'Raising Arizona',
@@ -52,7 +52,7 @@ const coenMovies = [
         quote: `Did I micturate upon your rug, Lebowski?`
     },
     {
-        id: 5
+        id: 5,
         name: 'O Brother, Where Art Thou?',
         year: 2000,
         cast: [
