@@ -6,6 +6,22 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 
 ## Making a plan
 
+I) Create Data
+  A) Data.js
+  B) Import data from previous project
+II) Create Home Page
+  A) Home page (index.html)
+  B) App.js
+    1) Append rendered items to DOM
+  C) Utils.js
+    1) findById function
+  D) render-utils.js
+    1) Render list item function (TDD) to display the items to click
+III) Create display page
+  A) Index
+  B) (list).js
+IV) Style
+
 1) **Make a drawing of your app. Simple "wireframes"**
 1) **Once you have a drawing, name the HTML elements you'll need to realize your vision**
 1) **For each HTML element ask: Why do I need this? (i.e., "we need div to display the results in")** 
