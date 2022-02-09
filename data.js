@@ -1,6 +1,6 @@
 export const coenMovies = [
     {
-        id: 1,
+        id: '1',
         name: 'Raising Arizona',
         year: 1987,
         cast: [
@@ -13,7 +13,7 @@ export const coenMovies = [
         quote: 'Her insides were a rocky place where my seed could find no purchase.'
     },
     {
-        id: 2,
+        id: '2',
         name: 'Barton Fink',
         year: 1991,
         cast: [
@@ -26,7 +26,7 @@ export const coenMovies = [
         quote: `I gotta tell ya, the life of the mind, there's no road map for that kinda territory, and exploring it can be painful.`
     },
     {
-        id: 3,
+        id: '3',
         name: 'Fargo',
         year: 1996,
         cast: [
@@ -39,7 +39,7 @@ export const coenMovies = [
         quote: `There's more to life than a little money, ya know... And here ya are, and it's a beautiful day.`
     },
     {
-        id: 4,
+        id: '4',
         name: 'The Big Lebowski',
         year: 1998,
         cast: [
@@ -52,7 +52,7 @@ export const coenMovies = [
         quote: `Did I micturate upon your rug, Lebowski?`
     },
     {
-        id: 5,
+        id: '5',
         name: 'O Brother, Where Art Thou?',
         year: 2000,
         cast: [
@@ -65,7 +65,7 @@ export const coenMovies = [
         quote: `Well, ain't this place a geographical oddity... Two weeks from everywhere!`
     },
     {
-        id: 6,
+        id: '6',
         name: 'Inside Llewyn Davis',
         year: 2013,
         cast: [
