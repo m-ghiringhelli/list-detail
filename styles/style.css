@@ -4,6 +4,7 @@ body {
     background-color: hsl(0, 0%, 20%);
     color: white;
     font-family: "Zilla Slab";
+    font-size: 20px;
 }
 
 main {
@@ -59,7 +60,7 @@ h2 {
     justify-content: center;
 }
 
-#cast {
+span {
     display: flex;
     flex-direction: column;
     font-weight: bold;
